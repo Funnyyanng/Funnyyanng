@@ -1,32 +1,32 @@
-# 嗨，我是煦洋 👋
+# 龚煦洋 · Shawn Gong
 
-在交大读金融和计算机，现在也在国泰海通做策略研究实习。
+我在交大读金融和计算机，现在在国泰海通做策略研究实习。
 
-这里放一些我做过的东西，也记下做的过程中遇到的问题和想法。
+这个 GitHub 想放一下做过的项目，也放一些经历、学习记录什么的。
 
-## 我做过的一些东西
+## 做过的一些项目
 
 ### [UniTeam · 校园组队平台](https://github.com/Funnyyanng/campus-team-platform)
 
-想做一个方便同学找队伍、找队友的地方，参加竞赛或者做课题时能用得上。现在有了前后端原型，完整的组队流程还没验证过。
+主要是想做个学校里找队友的平台，比如参加比赛、课题组队这些。现在有前后端原型，完整流程还没验证过。
 
-用的是 Vue 3、TypeScript 和 Spring Boot。
+用 Vue 3、TypeScript 和 Spring Boot 做的。
 
-[看看项目](https://github.com/Funnyyanng/campus-team-platform#readme) · [首页预览](https://github.com/Funnyyanng/campus-team-platform/blob/main/docs/images/home-preview.png)
+[项目说明](https://github.com/Funnyyanng/campus-team-platform#readme) · [首页截图](https://github.com/Funnyyanng/campus-team-platform/blob/main/docs/images/home-preview.png)
 
 ### [留白 · 个人规划工具](https://github.com/Funnyyanng/liubai-planner)
 
-想把课表、任务和实际完成的情况放到一起。一件事没按计划做完时，也能看看后面的安排该怎么改。
+想把课表、任务和实际完成情况放到一起。比如一件事没按计划做完，后面的安排该怎么调整。
 
-已经做了一个 macOS 原型。调试花了不少时间，后来就先放下了，源码、截图和设计说明都整理在仓库里。
+做了一个 Mac 原型，调试花了不少时间，后来就先放下了。源码、截图和设计说明都在仓库里。
 
-主要用了 React、TypeScript、Tauri 和 Rust。
+用的是 React、TypeScript、Tauri 和 Rust。
 
-[看看项目和截图](https://github.com/Funnyyanng/liubai-planner#readme) · [模块是怎么分的](https://github.com/Funnyyanng/liubai-planner/blob/main/docs/ARCHITECTURE.md)
+[项目说明和截图](https://github.com/Funnyyanng/liubai-planner#readme) · [模块说明](https://github.com/Funnyyanng/liubai-planner/blob/main/docs/ARCHITECTURE.md)
 
-### 这些项目是怎么做的
+### 关于 AI
 
-这两个原型都是借助 AI 一起做的。我提出需求、参与方案选择，AI 帮我细化设计和写代码。做到了哪一步、哪些还没验证，都写在各自的仓库里。
+这两个项目都是借助 AI 做的。我主要提需求、定方向，再一起讨论具体怎么做；AI 帮我细化设计和写代码。每个项目做到哪一步、哪些还没验证，仓库里都有说明。
 
 ## 教育背景
 
