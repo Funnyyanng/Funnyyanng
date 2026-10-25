@@ -1,10 +1,32 @@
-# 龚煦洋 · Shawn Gong
+# 嗨，我是煦洋 👋
 
-> 金融与计算机的交叉实践，记录学习、研究、经历与作品。
+在交大读金融和计算机，现在也在国泰海通做策略研究实习。
 
-我是上海交通大学金融学与计算机科学与技术双学位在读学生，关注策略研究、量化研究，以及机器学习在金融数据分析中的应用。目前在国泰海通担任策略研究实习生。
+这里放一些我做过的东西，也记下做的过程中遇到的问题和想法。
 
-这里整理我的研究与实践经历，也记录从想法到产品原型的探索与复盘。
+## 我做过的一些东西
+
+### [UniTeam · 校园组队平台](https://github.com/Funnyyanng/campus-team-platform)
+
+想做一个方便同学找队伍、找队友的地方，参加竞赛或者做课题时能用得上。现在有了前后端原型，完整的组队流程还没验证过。
+
+用的是 Vue 3、TypeScript 和 Spring Boot。
+
+[看看项目](https://github.com/Funnyyanng/campus-team-platform#readme) · [首页预览](https://github.com/Funnyyanng/campus-team-platform/blob/main/docs/images/home-preview.png)
+
+### [留白 · 个人规划工具](https://github.com/Funnyyanng/liubai-planner)
+
+想把课表、任务和实际完成的情况放到一起。一件事没按计划做完时，也能看看后面的安排该怎么改。
+
+已经做了一个 macOS 原型。调试花了不少时间，后来就先放下了，源码、截图和设计说明都整理在仓库里。
+
+主要用了 React、TypeScript、Tauri 和 Rust。
+
+[看看项目和截图](https://github.com/Funnyyanng/liubai-planner#readme) · [模块是怎么分的](https://github.com/Funnyyanng/liubai-planner/blob/main/docs/ARCHITECTURE.md)
+
+### 这些项目是怎么做的
+
+这两个原型都是借助 AI 一起做的。我提出需求、参与方案选择，AI 帮我细化设计和写代码。做到了哪一步、哪些还没验证，都写在各自的仓库里。
 
 ## 教育背景
 
@@ -52,24 +74,3 @@
 
 围绕鱼油市场开展行业调研，完成多源数据的采集、清洗、分析与可视化，并使用 SPSS 进行统计分析；结合 PEST 与波特五力模型，分析市场环境及年轻人养生消费的趋势。
 
-## 个人开发项目
-
-### [UniTeam · 校园组队平台](https://github.com/Funnyyanng/campus-team-platform)
-
-围绕高校竞赛与课题组队需求，探索如何帮助学生发现队伍、找到技能互补的伙伴。
-
-- **项目使用**：Vue 3 · TypeScript · Spring Boot
-- **当前进展**：已有前后端原型代码，完整业务流程仍待验证。
-- **查看作品**：[项目说明与源码](https://github.com/Funnyyanng/campus-team-platform#readme) · [首页预览](https://github.com/Funnyyanng/campus-team-platform/blob/main/docs/images/home-preview.png)
-
-### [留白 · 个人规划工具](https://github.com/Funnyyanng/liubai-planner)
-
-面向学生日程与任务规划，尝试连接任务、课表和执行反馈，探索任务依赖、模块化设计与动态重排。
-
-- **项目使用**：React · TypeScript · Tauri · Rust
-- **当前进展**：已整理 macOS 0.1.0 原型、源码与设计说明；目前暂停推进，处于复盘阶段。
-- **查看作品**：[项目说明、示例截图与下载](https://github.com/Funnyyanng/liubai-planner#readme) · [架构与模块约定](https://github.com/Funnyyanng/liubai-planner/blob/main/docs/ARCHITECTURE.md)
-
-## 我的参与与 AI 协作
-
-在这两个项目中，我提出使用需求、定义产品方向并参与方案取舍，借助 AI 协助设计与代码实现。具体分工、设计取舍和验证范围见各仓库说明。
