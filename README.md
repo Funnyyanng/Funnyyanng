@@ -46,6 +46,12 @@
 
 处理上市公司面板数据，构造环境风险相关特征；对比 Logistic Regression、Random Forest 与 LightGBM 等模型，针对类别不平衡调整分类阈值，并使用 SHAP 分析模型中的关键风险因素。
 
+### 年轻人的养生市场｜“正大杯”市场调查与分析大赛
+
+2025.03–2025.06 · 队长
+
+围绕鱼油市场开展行业调研，完成多源数据的采集、清洗、分析与可视化，并使用 SPSS 进行统计分析；结合 PEST 与波特五力模型，分析市场环境及年轻人养生消费的趋势。
+
 ## 个人开发项目
 
 ### [UniTeam · 校园组队平台](https://github.com/Funnyyanng/campus-team-platform)
